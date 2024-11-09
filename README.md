@@ -17,3 +17,9 @@ Código feito para obtenção de insights com o objetivo de produzir um artigo c
 
 Utilizou-se a base de dados do banco mundial, disponível em: 
 [ *Health, Nutrition and Population Statistics* ](https://datacatalog.worldbank.org/search/dataset/0037652/Health-Nutrition-and-Population-Statistics)
+
+## **Arigo Publicado:**
+
+O Resultado final pode ser encontrado em:
+* [Artigo Enegep 2024](https://abepro.org.br/publicacoes/artigo.asp?e=enegep&a=2024&c=47859)
+* [DOI](10.14488/enegep2024_tn_st_413_2034_47859)
