@@ -12,6 +12,7 @@ Código feito para obtenção de insights com o objetivo de produzir um artigo c
 * Scikit Learn versão: 1.4
 * MICEForest versão: 5.7
 * Geopandas versão: 0.13
+* Plotly 5.0
 
 ## **Base de Dados:**
 
